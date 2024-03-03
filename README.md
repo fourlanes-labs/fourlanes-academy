@@ -16,6 +16,8 @@ At Four Lanes Academy, we foster structured community-based learning by leveragi
 
 Our curriculum emphasizes the completion of assignments as a prerequisite for advancement. These assignments are sourced from reputable bootcamps such as IronHack, 4Geeks, and Flatiron School, which generously make them publicly available. This not only provides our students with comprehensive learning materials but also enables us to validate their skills against international standards, ensuring they are well-prepared for success in the tech field.
 
+#### [Setup Your Dev Environment](pre-requisites.md)
+
 ## Courses
 
 ### [Frontend Web Development](frontend/README.md)
