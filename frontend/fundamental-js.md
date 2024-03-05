@@ -10,9 +10,10 @@ Step into the world of JavaScript and enhance your web development capabilities.
 
 ### Resources
 
-Resources with an asterisk(*) are our recommended resource for this stage.
+Resources with an asterisk(*) are our recommendations for this stage.
 
-- [*JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s)
+- [*JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Crash Course for Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=2s)
 - [The Modern JavaScript Tutorial - Fundamentals](https://javascript.info/first-steps)
 - [The Modern JavaScript Tutorial - Object Basics](https://javascript.info/object-basics)
 - [The Modern JavaScript Tutorial - Data Types](https://javascript.info/data-types)
