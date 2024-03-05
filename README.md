@@ -24,3 +24,4 @@ Our curriculum emphasizes the completion of assignments as a prerequisite for ad
 
 * [Fundamental HTML & CSS](frontend/fundamental-html-css.md)
 * [Fundamental Git](https://github.com/fourlanes-labs/github-starter-course)
+* [Fundamental JavaScript](frontend/fundamental-js.md)
